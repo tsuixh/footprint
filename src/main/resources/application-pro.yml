@@ -1,0 +1,9 @@
+server:
+  port: 80
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost/what_i_have_done
+    username: root
+    password: Cyh199505161017.

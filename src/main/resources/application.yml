@@ -1,0 +1,9 @@
+
+server:
+  port: 8080
+  servlet:
+    application-display-name: What I Have Done
+
+spring:
+  profiles:
+    active: dev
